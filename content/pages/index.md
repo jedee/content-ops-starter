@@ -746,7 +746,7 @@ sections:
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
-  socialImage: /images/1743444798031.jpeg
+  socialImage: /images/3ea54397-dc7c-456b-bebb-4ad709ddf56f.png
   type: Seo
 type: PageLayout
 ---
