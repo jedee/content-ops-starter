@@ -7,7 +7,7 @@ sections:
       text: Unblock your team boost your time to production
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Jedidiah Ojeh’s Digital Space
     text: >+
       This site is a creative hub built and curated by **Jedidiah Ojeh**,
       designed to showcase ideas, projects, and passions with clarity and style.
