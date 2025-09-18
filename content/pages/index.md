@@ -9,10 +9,12 @@ sections:
       type: TitleBlock
     subtitle: Jedidiah Ojeh’s Digital Space
     text: >+
-      This site is a creative hub built and curated by **Jedidiah Ojeh**,
-      designed to showcase ideas, projects, and passions with clarity and style.
-      Whether you're here to explore, collaborate, or be inspired, you've landed
-      in the right place.
+
+      Jedidiah Ojeh is a creator, thinker, and builder with a passion for
+      meaningful work. With a sharp eye for design and a mind wired for
+      innovation, Jedidiah blends creativity with strategy to bring ideas to
+      life. This site is a reflection of that journey—where vision meets
+      execution, and every pixel has a purpose.
 
     actions:
       - label: Get started
