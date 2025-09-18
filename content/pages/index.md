@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: About Jedidiah Ojeh
       color: text-dark
       type: TitleBlock
     subtitle: Jedidiah Ojeh’s Digital Space
